@@ -1,5 +1,5 @@
 ---
 plugin: solarwinds
-base_url: "{{ solarwinds_url }}"
+base_url: "https://www.solarwinds.com/"
 username: "{{ solarwinds_username }}"
 password: "{{ solarwinds_password }}"

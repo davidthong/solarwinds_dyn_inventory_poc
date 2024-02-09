@@ -1,0 +1,5 @@
+---
+plugin: solarwinds
+base_url: "{{ solarwinds_url }}"
+username: "{{ solarwinds_username }}"
+password: "{{ solarwinds_password }}"
